@@ -1,0 +1,14 @@
+{
+  "financialMarketInsightAnalysisSchedule" : "financialMarketInsightAnalysisSchedule",
+  "financialMarketAnalysisServiceType" : "financialMarketAnalysisServiceType",
+  "financialMarketInsightInitiateActionReference" : "FMIIAR789235",
+  "financialMarketInsightPreconditions" : "financialMarketInsightPreconditions",
+  "financialMarketAnalysisServiceDescription" : "financialMarketAnalysisServiceDescription",
+  "financialMarketAnalysisServiceWorkProduct" : "financialMarketAnalysisServiceWorkProduct",
+  "financialMarketInsightInstanceReference" : "FMIIR736163",
+  "financialMarketInsightInitiateActionRecord" : {},
+  "financialMarketInsightInstanceStatus" : "financialMarketInsightInstanceStatus",
+  "financialMarketInsightVersionNumber" : "financialMarketInsightVersionNumber",
+  "financialMarketAnalysisServiceInputsandOuputs" : "financialMarketAnalysisServiceInputsandOuputs",
+  "financialMarketAnalysis" : "financialMarketAnalysis"
+}

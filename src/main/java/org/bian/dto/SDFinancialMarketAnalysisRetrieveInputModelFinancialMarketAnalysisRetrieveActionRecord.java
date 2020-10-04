@@ -1,0 +1,67 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecordControlRecordPortfolioAnalysis;
+import org.bian.dto.SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecordFinancialMarketAnalysisActivityAnalysis;
+import org.bian.dto.SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecordFinancialMarketAnalysisPerformanceAnalysis;
+
+import javax.validation.Valid;
+  
+/**
+ * SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecord
+ */
+public class SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecord   {
+  private SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecordFinancialMarketAnalysisActivityAnalysis financialMarketAnalysisActivityAnalysis = null;
+
+  private SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecordFinancialMarketAnalysisPerformanceAnalysis financialMarketAnalysisPerformanceAnalysis = null;
+
+  private SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis = null;
+
+
+  /**
+   * Get financialMarketAnalysisActivityAnalysis
+   * @return financialMarketAnalysisActivityAnalysis
+  **/
+
+  public SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecordFinancialMarketAnalysisActivityAnalysis getFinancialMarketAnalysisActivityAnalysis() {
+    return financialMarketAnalysisActivityAnalysis;
+  }
+
+  public void setFinancialMarketAnalysisActivityAnalysis(SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecordFinancialMarketAnalysisActivityAnalysis financialMarketAnalysisActivityAnalysis) {
+    this.financialMarketAnalysisActivityAnalysis = financialMarketAnalysisActivityAnalysis;
+  }
+
+
+  /**
+   * Get financialMarketAnalysisPerformanceAnalysis
+   * @return financialMarketAnalysisPerformanceAnalysis
+  **/
+
+  public SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecordFinancialMarketAnalysisPerformanceAnalysis getFinancialMarketAnalysisPerformanceAnalysis() {
+    return financialMarketAnalysisPerformanceAnalysis;
+  }
+
+  public void setFinancialMarketAnalysisPerformanceAnalysis(SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecordFinancialMarketAnalysisPerformanceAnalysis financialMarketAnalysisPerformanceAnalysis) {
+    this.financialMarketAnalysisPerformanceAnalysis = financialMarketAnalysisPerformanceAnalysis;
+  }
+
+
+  /**
+   * Get controlRecordPortfolioAnalysis
+   * @return controlRecordPortfolioAnalysis
+  **/
+
+  public SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecordControlRecordPortfolioAnalysis getControlRecordPortfolioAnalysis() {
+    return controlRecordPortfolioAnalysis;
+  }
+
+  public void setControlRecordPortfolioAnalysis(SDFinancialMarketAnalysisRetrieveInputModelFinancialMarketAnalysisRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis) {
+    this.controlRecordPortfolioAnalysis = controlRecordPortfolioAnalysis;
+  }
+
+
+}
+

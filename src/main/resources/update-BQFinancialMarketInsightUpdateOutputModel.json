@@ -1,0 +1,13 @@
+{
+  "financialMarketInsightAnalysisSchedule" : "financialMarketInsightAnalysisSchedule",
+  "financialMarketAnalysisServiceType" : "financialMarketAnalysisServiceType",
+  "financialMarketInsightUpdateActionTaskRecord" : {},
+  "financialMarketInsightPreconditions" : "financialMarketInsightPreconditions",
+  "updateResponseRecord" : {},
+  "financialMarketAnalysisServiceDescription" : "financialMarketAnalysisServiceDescription",
+  "financialMarketAnalysisServiceWorkProduct" : "financialMarketAnalysisServiceWorkProduct",
+  "financialMarketInsightUpdateActionTaskReference" : "FMIUATR767135",
+  "financialMarketInsightVersionNumber" : "financialMarketInsightVersionNumber",
+  "financialMarketAnalysisServiceInputsandOuputs" : "financialMarketAnalysisServiceInputsandOuputs",
+  "financialMarketAnalysis" : "financialMarketAnalysis"
+}

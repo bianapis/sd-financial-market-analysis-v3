@@ -1,0 +1,25 @@
+{
+  "financialMarketInsightInstanceAnalysis" : {
+    "financialMarketInsightInstanceAnalysisRecord" : {},
+    "financialMarketInsightInstanceAnalysisReportType" : "financialMarketInsightInstanceAnalysisReportType",
+    "financialMarketInsightInstanceAnalysisParameters" : "financialMarketInsightInstanceAnalysisParameters",
+    "financialMarketInsightInstanceAnalysisReport" : {}
+  },
+  "financialMarketAnalysisServiceType" : "financialMarketAnalysisServiceType",
+  "financialMarketAnalysisServiceWorkProduct" : "financialMarketAnalysisServiceWorkProduct",
+  "financialMarketInsightRetrieveActionTaskRecord" : {},
+  "financialMarketInsightRetrieveActionTaskReference" : "FMIRATR704623",
+  "financialMarketInsightInstanceReport" : {
+    "financialMarketInsightInstanceReportParameters" : "financialMarketInsightInstanceReportParameters",
+    "financialMarketInsightInstanceReport" : {},
+    "financialMarketInsightInstanceReportRecord" : {},
+    "financialMarketInsightInstanceReportType" : "financialMarketInsightInstanceReportType"
+  },
+  "financialMarketInsightAnalysisSchedule" : "financialMarketInsightAnalysisSchedule",
+  "financialMarketInsightPreconditions" : "financialMarketInsightPreconditions",
+  "financialMarketAnalysisServiceDescription" : "financialMarketAnalysisServiceDescription",
+  "financialMarketInsightVersionNumber" : "financialMarketInsightVersionNumber",
+  "financialMarketAnalysisServiceInputsandOuputs" : "financialMarketAnalysisServiceInputsandOuputs",
+  "financialMarketAnalysis" : "financialMarketAnalysis",
+  "financialMarketInsightRetrieveActionResponse" : "financialMarketInsightRetrieveActionResponse"
+}

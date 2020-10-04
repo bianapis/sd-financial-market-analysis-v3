@@ -1,0 +1,11 @@
+{
+  "financialMarketAnalysisSelectedOption" : "financialMarketAnalysisSelectedOption",
+  "financialMarketAnalysisRequest" : "financialMarketAnalysisRequest",
+  "financialMarketAnalysisInstanceStatus" : "financialMarketAnalysisInstanceStatus",
+  "financialMarketAnalysisInitiateActionRecord" : {},
+  "financialMarketAnalysisInitiateActionReference" : "FMAIAR712603",
+  "financialMarketAnalysisUsageLog" : "financialMarketAnalysisUsageLog",
+  "financialMarketAnalysisInstanceReference" : "FMAIR712668",
+  "financialMarketAnalysisStatus" : "financialMarketAnalysisStatus",
+  "financialMarketAnalysisParameterType" : "financialMarketAnalysisParameterType"
+}

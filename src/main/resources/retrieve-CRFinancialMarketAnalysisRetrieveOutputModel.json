@@ -1,0 +1,22 @@
+{
+  "financialMarketAnalysisInstanceAnalysis" : {
+    "financialMarketAnalysisInstanceAnalysisData" : "financialMarketAnalysisInstanceAnalysisData",
+    "financialMarketAnalysisInstanceAnalysisReportType" : "financialMarketAnalysisInstanceAnalysisReportType",
+    "financialMarketAnalysisInstanceAnalysisReport" : {}
+  },
+  "financialMarketAnalysisSelectedOption" : "financialMarketAnalysisSelectedOption",
+  "financialMarketAnalysisRequesterReference" : "FMARR716571",
+  "financialMarketAnalysisRequest" : "financialMarketAnalysisRequest",
+  "financialMarketAnalysisInstanceReportRecord" : {
+    "financialMarketAnalysisInstanceReportData" : "financialMarketAnalysisInstanceReportData",
+    "financialMarketAnalysisInstanceReport" : {},
+    "financialMarketAnalysisInstanceReportType" : "financialMarketAnalysisInstanceReportType"
+  },
+  "financialMarketAnalysisSchedule" : "financialMarketAnalysisSchedule",
+  "financialMarketAnalysisRetrieveActionTaskReference" : "FMARATR785371",
+  "financialMarketAnalysisRetrieveActionTaskRecord" : {},
+  "financialMarketAnalysisUsageLog" : "financialMarketAnalysisUsageLog",
+  "financialMarketAnalysisStatus" : "financialMarketAnalysisStatus",
+  "financialMarketAnalysisParameterType" : "financialMarketAnalysisParameterType",
+  "financialMarketAnalysisRetrieveActionResponse" : "financialMarketAnalysisRetrieveActionResponse"
+}

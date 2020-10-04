@@ -1,0 +1,39 @@
+{
+  "financialMarketAnalysisRetrieveActionRecord" : {
+    "financialMarketAnalysisPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "financialMarketAnalysisActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "financialMarketAnalysisOfferedService" : {
+    "financialMarketAnalysisServiceReference" : "776158",
+    "financialMarketAnalysisServiceRecord" : {
+      "financialMarketAnalysisServiceVersion" : "financialMarketAnalysisServiceVersion",
+      "financialMarketAnalysisServiceType" : "financialMarketAnalysisServiceType",
+      "financialMarketAnalysisServiceDescription" : "financialMarketAnalysisServiceDescription",
+      "financialMarketAnalysisServicePoliciesandGuidelines" : {
+        "financialMarketAnalysisServicePricingandTerms" : "financialMarketAnalysisServicePricingandTerms",
+        "financialMarketAnalysisServiceIntendedUses" : "financialMarketAnalysisServiceIntendedUses",
+        "financialMarketAnalysisServiceEligibility" : "financialMarketAnalysisServiceEligibility"
+      },
+      "financialMarketAnalysisServiceSchedule" : "financialMarketAnalysisServiceSchedule"
+    }
+  },
+  "financialMarketAnalysisRetrieveActionTaskReference" : "SRATR795161",
+  "financialMarketAnalysisRetrieveActionTaskRecord" : {},
+  "financialMarketAnalysisRetrieveActionResponse" : "financialMarketAnalysisRetrieveActionResponse"
+}

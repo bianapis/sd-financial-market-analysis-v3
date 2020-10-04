@@ -1,0 +1,21 @@
+{
+  "financialMarketAnalysisConfigurationActionTaskReference" : "SCATR765419",
+  "financialMarketAnalysisServicingSessionStatus" : "financialMarketAnalysisServicingSessionStatus",
+  "financialMarketAnalysisConfigurationActionTaskRecord" : {},
+  "financialMarketAnalysisServiceConfigurationRecord" : {
+    "financialMarketAnalysisServiceAgreement" : {
+      "financialMarketAnalysisServiceAgreementReference" : "721156",
+      "financialMarketAnalysisServiceAgreementTermsandConditions" : "financialMarketAnalysisServiceAgreementTermsandConditions",
+      "financialMarketAnalysisServiceUserReference" : "733696"
+    },
+    "financialMarketAnalysisServiceConfigurationSettingDescription" : "financialMarketAnalysisServiceConfigurationSettingDescription",
+    "financialMarketAnalysisServiceStatus" : "financialMarketAnalysisServiceStatus",
+    "financialMarketAnalysisServiceSubscription" : {
+      "financialMarketAnalysisServiceSubscriberReference" : "756221",
+      "financialMarketAnalysisServiceSubscriberAccessProfile" : "financialMarketAnalysisServiceSubscriberAccessProfile"
+    },
+    "financialMarketAnalysisServiceConfigurationSetup" : {
+      "financialMarketAnalysisServiceConfigurationParameter" : "financialMarketAnalysisServiceConfigurationParameter"
+    }
+  }
+}
